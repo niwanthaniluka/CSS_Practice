@@ -1,3 +1,3 @@
 # CSS_Practice
 I'm css coding studying with the youtube video
-css.jpg
+<img src ="css.jpg"/>
