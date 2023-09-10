@@ -1,5 +1,6 @@
 # CSS Practice Repository
 <b>Welcome to the CSS Practice repository! This repository is designed to help you sharpen your CSS skills by providing a collection of mini-projects and exercises.</b>
+![Example Image](css.jpg)
 ## About
 This repository contains a variety of CSS challenges and examples to enhance your front-end development skills. Whether you're a beginner looking to learn CSS or an experienced developer looking to refine your CSS expertise, you'll find something valuable here.
 
@@ -22,4 +23,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 Happy coding! 🚀
 
-![Example Image](css.jpg)
