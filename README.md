@@ -1,7 +1,5 @@
 # CSS Practice Repository
-
-Welcome to the CSS Practice repository! This repository is designed to help you sharpen your CSS skills by providing a collection of mini-projects and exercises.
-
+<b>Welcome to the CSS Practice repository! This repository is designed to help you sharpen your CSS skills by providing a collection of mini-projects and exercises.</b>
 ## About
 This repository contains a variety of CSS challenges and examples to enhance your front-end development skills. Whether you're a beginner looking to learn CSS or an experienced developer looking to refine your CSS expertise, you'll find something valuable here.
 
