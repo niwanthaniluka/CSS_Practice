@@ -1,1 +1,1 @@
-![Example Image](3D.jpg)
+![Example Image](3D.png)
